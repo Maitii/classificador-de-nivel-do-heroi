@@ -1,7 +1,6 @@
-var nome = "Teresa";
-var xp = 5046
-
-var nivel;
+let nome = "Teresa";
+let xp = 5046
+let nivel;
 
 if (xp < 1000) {
     nivel = "Ferro";
